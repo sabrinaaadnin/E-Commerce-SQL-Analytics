@@ -11,7 +11,13 @@ This project explores e-commerce transaction data using SQL to identify sales pe
 - Develop data-driven insights to support business decisions.
 
 ## Dataset
-The project uses an e-commerce dataset containing 10,000 transactions across multiple products, categories, customers, and countries.
+This project uses an e-commerce dataset containing 10,000 transactions across multiple customers, products, categories, and countries.
+
+**Dataset Source:** [E-Commerce Dataset for SQL Analysis — Kaggle](https://www.kaggle.com/datasets/nabihazahid/ecommerce-dataset-for-sql-analysis)
+
+The dataset is used to explore sales performance, customer purchasing behavior, and order operations through SQL queries.
+
+Please refer to the original Kaggle page for dataset details and licensing information.
 
 ## Tools
 - SQLite
@@ -33,9 +39,3 @@ The project uses an e-commerce dataset containing 10,000 transactions across mul
 
 ## Key Findings
 *To be completed after validating the SQL query results and consolidating the business insights.*
-
-## Future Development
-The project will be extended with Python-based analysis and an interactive Power BI dashboard.
-
-## Author
-Data Analytics Portfolio Project
