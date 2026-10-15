@@ -107,14 +107,7 @@ The initial exploration suggests that the dataset is structurally suitable for f
 
 These checks are an initial assessment, not a complete data-quality audit. Further checks may still be needed for invalid values, inconsistent categories, date logic, outliers, and the completeness of other columns.
 
-## 4. Recommended Next Steps
-
-1. Use **SQL 2 — Sales Analysis** to examine revenue, average order value, trends, and product/category/country performance.
-2. Use **SQL 3 — Customer Analysis** to investigate repeat purchases, customer value, and customer segments.
-3. Use **SQL 4 and SQL 5** to explore advanced product patterns and operational indicators.
-4. Validate the findings across query outputs before turning them into final business recommendations or dashboard claims.
-
-## 5. Scope and Interpretation Notes
+## 4. Scope and Interpretation Notes
 
 - The annual distribution is based on record counts. The first and last calendar years are partial years in this dataset.
 - Order-status, category, and country distributions show the number of records and their share of the 10,000-record dataset. They are not revenue or profit measures.
