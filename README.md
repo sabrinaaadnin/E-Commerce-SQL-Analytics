@@ -38,4 +38,12 @@ Please refer to the original Kaggle page for dataset details and licensing infor
 5. Operational Analysis
 
 ## Key Findings
-*To be completed after validating the SQL query results and consolidating the business insights.*
+Based on the SQL analysis, the following key findings were identified:
+
+- **Revenue Concentration:** Electronics accounted for 60.80% of total calculated revenue, while the iPhone 14 and Samsung Galaxy S23 together contributed 49.15%.
+- **Customer Retention:** Repeat customers represented 69.03% of all customers and contributed 86.47% of total calculated revenue.
+- **Customer Spending:** The highest-spending customer quartile contributed 62.44% of total calculated revenue, indicating a concentration of spending among high-value customers.
+- **Customer Ratings:** Low ratings (1–2) accounted for 40.07% of records, slightly exceeding high ratings (4–5) at 39.68%.
+- **Data Quality:** The analysis identified inconsistencies in signup and review dates, highlighting the importance of data validation before interpreting time-based business metrics.
+
+*Note: Revenue is calculated as quantity multiplied by unit price across all order statuses, including Cancelled and Returned orders. It should not be interpreted as net revenue. Findings are descriptive and do not establish causality.*
